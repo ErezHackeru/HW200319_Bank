@@ -1,0 +1,7 @@
+D:\VisualStudio_Projects\CourseHackerU\HW2003_Bank\HW2003_Bank\obj\Debug\HW2003_Bank.csprojAssemblyReference.cache
+D:\VisualStudio_Projects\CourseHackerU\HW2003_Bank\HW2003_Bank\obj\Debug\HW2003_Bank.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\CourseHackerU\HW2003_Bank\HW2003_Bank\bin\Debug\HW2003_Bank.exe.config
+D:\VisualStudio_Projects\CourseHackerU\HW2003_Bank\HW2003_Bank\bin\Debug\HW2003_Bank.exe
+D:\VisualStudio_Projects\CourseHackerU\HW2003_Bank\HW2003_Bank\bin\Debug\HW2003_Bank.pdb
+D:\VisualStudio_Projects\CourseHackerU\HW2003_Bank\HW2003_Bank\obj\Debug\HW2003_Bank.exe
+D:\VisualStudio_Projects\CourseHackerU\HW2003_Bank\HW2003_Bank\obj\Debug\HW2003_Bank.pdb
